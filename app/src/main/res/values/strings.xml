@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WorkInfo</string>
+    <string name="work_info">Work Information</string>
+    <string name="center_for_railway_information_systems">Center For Railway Information Systems</string>
+    <string name="address">Address:</string>
+    <string name="contact_info">Contact Info:</string>
+    <string name="chanakya_puri_new_delhi_110021">Chanakya Puri New Delhi - 110021</string>
+    <string name="_011_24104525">011-24104525</string>
+    <string name="hours_of_operation">Hours of operation</string>
+    <string name="_9_00_am_to_6_00_pm">9:00 am to 6:00 pm</string>
+    <string name="cris_centre_for_railway_information_systems_is_an_organization_under_ministry_of_railways_cris_is_a_unique_combination_of_competent_it_professionals_and_experienced_railway_personnel_enabling_it_to_deliver_complex_railway_it_systems_with_stupendous_success_in_core_areas_since_its_inception_cris_is_developing_maintaining_softwares_for_the_following_key_functional_areas_of_the_indian_railways">CRIS (Centre for Railway Information Systems) is an organization under Ministry of Railways. CRIS is a unique combination of competent IT professionals and experienced Railway personnel enabling it to deliver complex Railway IT systems with stupendous success in core areas. Since its inception, CRIS is developing/maintaining softwares for the following key functional areas of the Indian Railways.</string>
+    <string name="about">About:</string>
+    <string name="work_image">Work Image</string>
+</resources>
